@@ -20,4 +20,5 @@ The WISDM Actitracker dataset used for model training, can be downloaded from th
 
 User identification from walking activity. Accelerometer dataset from 22 indivduals can be downloaded from the following [[link]](http://archive.ics.uci.edu/ml/datasets/User+Identification+From+Walking+Activity)
 
-
+### Inspiration
+Going through the [post](https://medium.com/@curiousily/human-activity-recognition-using-lstms-on-android-tensorflow-for-hackers-part-vi-492da5adef64), we decided it would be a good idea to try out as our exploratory project.
