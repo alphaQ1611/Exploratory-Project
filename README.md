@@ -1,4 +1,4 @@
-## CNN for Human Activity Recognition
+## LSTMs for Human Activity Recognition
 
 <p>
 <a href="https://github.com/aqibsaeed/Human-Activity-Recognition-using-CNN/blob/master/Activity%20Detection.ipynb">Python notebook</a> for blog post <a href="http://aqibsaeed.github.io/2016-11-04-human-activity-recognition-cnn/">Implementing a CNN for Human Activity Recognition in Tensorflow</a>.
@@ -6,7 +6,7 @@
 
 ### Tools Required
 
-Python 2.7 is used during development and following libraries are required to run the code provided in the notebook:
+Python 3 is used during development and following libraries are required to run the code provided in the notebook:
 * Tensorflow
 * Numpy
 * Matplotlib
