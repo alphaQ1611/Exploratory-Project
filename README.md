@@ -1,8 +1,5 @@
 ## LSTMs for Human Activity Recognition
 
-<p>
-<a href="https://github.com/aqibsaeed/Human-Activity-Recognition-using-CNN/blob/master/Activity%20Detection.ipynb">Python notebook</a> for blog post <a href="http://aqibsaeed.github.io/2016-11-04-human-activity-recognition-cnn/">Implementing a CNN for Human Activity Recognition in Tensorflow</a>.
-</p>
 
 ### Tools Required
 
